@@ -1,0 +1,24 @@
+2DOF Plotter using a 5 bar linkage.
+
+I made this because I thought 5 bar linkages seemed really cool. Also I wanted to learn inverse kinematics (it was hard) and stepper motor control.
+
+3D Model
+
+<img width="375" height="250" alt="image" src="https://github.com/user-attachments/assets/c3122340-1709-43b2-8a76-82d57be7c71e" />
+
+Wiring Diagram
+
+<img width="500" height="300" alt="Screenshot 2026-03-22 190449" src="https://github.com/user-attachments/assets/e434650d-a996-4e53-85f8-7b76463dab4d" />
+
+
+BOM 
+| Part                     | Quantity | Link                                                                   |
+|--------------------------|----------|------------------------------------------------------------------------|
+| Nema 17 Stepper Motor    | 2        | https://www.amazon.com/gp/product/B0B93L4H57?smid=AWQBCGWISS7BL&psc=1  |
+| A4988 Stepper Controller | 2        | https://www.amazon.com/gp/product/B0DQGPP7DL?smid=A24KRRWWW1U0PG&psc=1 |
+| 12v power supply         | 1        | https://www.amazon.com/gp/product/B091XSVV1Y?smid=A3RVBXPX8VM3VL&psc=1 |
+| ESP32                    | 1        | https://www.amazon.com/gp/product/B08D5ZD528?smid=A2Z10KY0342329&psc=1 |
+| Motor Holding Plate      | 1        | 3D Models Folder                                                       |
+| Motor Arm                | 2        | 3D Models Folder                                                       |
+| Extension Arm            | 1        | 3D Models Folder                                                       |
+| Marker Holding Arm       | 1        | 3D Models Folder                                                       |
