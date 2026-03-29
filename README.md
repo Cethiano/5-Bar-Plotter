@@ -6,10 +6,8 @@ I made this because I thought 5 bar linkages seemed really cool. Also I wanted t
 
 <img width="375" height="250" alt="image" src="https://github.com/user-attachments/assets/c3122340-1709-43b2-8a76-82d57be7c71e" />
 
-Wiring Diagram
-
-<img width="500" height="300" alt="Screenshot 2026-03-22 190449" src="https://github.com/user-attachments/assets/e434650d-a996-4e53-85f8-7b76463dab4d" />
-
+PCB
+<img width="675" height="523" alt="image" src="https://github.com/user-attachments/assets/ab61a91f-37bd-4d8e-8d8a-ab88edfa57a7" />
 
 BOM 
 | Part                     | Quantity | Link                                                                   |
@@ -22,3 +20,9 @@ BOM
 | Motor Arm                | 2        | 3D Models Folder                                                       |
 | Extension Arm            | 1        | 3D Models Folder                                                       |
 | Marker Holding Arm       | 1        | 3D Models Folder                                                       |
+| PCB                      | 1        | PCB Folder                                                             |
+| Female Pin Headers x19   | 2        | https://www.adafruit.com/product/598                                   |
+| Female Pin Headers x8    | 4        | https://www.adafruit.com/product/598                                   |
+| Male Pin Headers x4      | 2        | https://www.adafruit.com/product/392                                   |
+| Male Pin Headers x1      | 1        | https://www.adafruit.com/product/392                                   |
+
