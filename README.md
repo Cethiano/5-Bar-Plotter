@@ -27,4 +27,5 @@ BOM
 | Female Pin Headers x8    | 4        | https://www.adafruit.com/product/598                                   |
 | Male Pin Headers x4      | 2        | https://www.adafruit.com/product/392                                   |
 | Male Pin Headers x1      | 1        | https://www.adafruit.com/product/392                                   |
+| Capacitor 100uf          | 1        | https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FC2A101/285728                               |
 
