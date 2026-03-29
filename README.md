@@ -4,7 +4,8 @@ I made this because I thought 5 bar linkages seemed really cool. Also I wanted t
 
 3D Model
 
-<img width="375" height="250" alt="image" src="https://github.com/user-attachments/assets/c3122340-1709-43b2-8a76-82d57be7c71e" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/7c0d0a81-cf6c-4cfb-9cdb-7e815c9890f9" />
+
 
 PCB
 
